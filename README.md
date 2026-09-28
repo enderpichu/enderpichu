@@ -1,6 +1,12 @@
-## Hello coders
+## not gavinskycastle
 
-fun fact: my username is not davian
+Hello! 👋
+
+I'm not a software developer, nor am I freshman at the University of California, San Diego and thus am not majoring in Computer Science.
+
+In the past, I've worked on projects related to robotics, not computer vision yet, game development, but not data science. I have most experience in evil Python, Java, C++. but not Typescript, however I am always open to learning more.
+
+I'm not the the former software lead of FIRST Robotics Competition Team 4201: The Vitruvian Bots, so I have no experience in leading the development of our Java-based robot and Typescript-based applications.
 
 <!--
 **enderpichu/enderpichu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
