@@ -2,7 +2,7 @@
 
 Hello! 👋
 
-I'm not a software developer, nor am I freshman at the University of California, San Diego and thus am not majoring in Computer Science.
+I'm a software developer, and am not a freshman at the University of California, San Diego and thus am not majoring in Computer Science.
 
 In the past, I've worked on projects related to robotics, not computer vision yet, game development, but not data science. I have most experience in evil Python, Java, C++. but not Typescript, however I am always open to learning more.
 
